@@ -1,3 +1,5 @@
 [user]
 	name = Jimmy Thelander
 	email = jimmy.thelander@gmail.com
+[push]
+	default = simple
